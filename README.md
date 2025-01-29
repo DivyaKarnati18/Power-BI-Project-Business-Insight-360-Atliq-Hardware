@@ -1,7 +1,7 @@
 # AtliQ Hardware Data Analytics Project
 
 
-Welcome to the AtliQ Hardware Data Analytics project repository! In this project, we have implemented data analytics using Power BI to empower AtliQ Hardware with the ability to make data-driven decisions, surpass competitors in the market, and drive growth in various aspects of their business, including finance, sales, marketing, and supply chain management.
+Welcome to the AtliQ Hardware Data Analytics project repository! In this project, I have implemented data analytics using Power BI to empower AtliQ Hardware with the ability to make data-driven decisions, surpass competitors in the market, and drive growth in various aspects of their business, including finance, sales, marketing, and supply chain management.
 
 [Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMzM0YmUwOWQtNzI4My00ZmEyLWI0NmMtYmRhMjhjYTcyNzFkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
